@@ -57,7 +57,7 @@ Quick setup guide for ZODs LLM Web Scrapper.
 1. Clone and install dependencies:
 ```bash
 git clone https://github.com/ZOD-ai/zodai-llm-web-scrapper.git
-cd zods-llm-web-scrapper
+cd zodai-llm-web-scrapper
 pnpm install
 ```
 
