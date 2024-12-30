@@ -1,4 +1,4 @@
-# ZODs LLM Web Scrapper
+# ZODai v1 LLM Web Scrapper
 
 An advanced web scraping service that intelligently extracts and processes web content using embedding models. The service makes smart decisions about content relevancy based on embedding analysis, with support for multi-language and region-specific scraping.
 
