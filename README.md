@@ -66,4 +66,3 @@ pnpm install
 cp .env.example .env
 ```
 
-### More setup steps will be added here.
